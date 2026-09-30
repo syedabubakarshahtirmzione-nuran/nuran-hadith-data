@@ -1,0 +1,596 @@
+{
+  "collection": "Sahih al-Bukhari",
+  "source": "fawazahmed0/hadith-api (open dataset, GitHub)",
+  "total_books": 98,
+  "total_records": 7589,
+  "books": [
+    {
+      "book": 0,
+      "book_name_en": "Book 0",
+      "filename": "000_book_0.json",
+      "hadith_count": 311
+    },
+    {
+      "book": 1,
+      "book_name_en": "Revelation",
+      "filename": "001_revelation.json",
+      "hadith_count": 7
+    },
+    {
+      "book": 2,
+      "book_name_en": "Belief",
+      "filename": "002_belief.json",
+      "hadith_count": 51
+    },
+    {
+      "book": 3,
+      "book_name_en": "Knowledge",
+      "filename": "003_knowledge.json",
+      "hadith_count": 76
+    },
+    {
+      "book": 4,
+      "book_name_en": "Ablutions (Wudu')",
+      "filename": "004_ablutions_wudu.json",
+      "hadith_count": 113
+    },
+    {
+      "book": 5,
+      "book_name_en": "Bathing (Ghusl)",
+      "filename": "005_bathing_ghusl.json",
+      "hadith_count": 46
+    },
+    {
+      "book": 6,
+      "book_name_en": "Menstrual Periods",
+      "filename": "006_menstrual_periods.json",
+      "hadith_count": 37
+    },
+    {
+      "book": 7,
+      "book_name_en": "Rubbing hands and feet with dust (Tayammum)",
+      "filename": "007_rubbing_hands_and_feet_with_dust_tayammum.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 8,
+      "book_name_en": "Prayers (Salat)",
+      "filename": "008_prayers_salat.json",
+      "hadith_count": 167
+    },
+    {
+      "book": 9,
+      "book_name_en": "Times of the Prayers",
+      "filename": "009_times_of_the_prayers.json",
+      "hadith_count": 77
+    },
+    {
+      "book": 10,
+      "book_name_en": "Call to Prayers (Adhaan)",
+      "filename": "010_call_to_prayers_adhaan.json",
+      "hadith_count": 266
+    },
+    {
+      "book": 11,
+      "book_name_en": "Friday Prayer",
+      "filename": "011_friday_prayer.json",
+      "hadith_count": 65
+    },
+    {
+      "book": 12,
+      "book_name_en": "Fear Prayer",
+      "filename": "012_fear_prayer.json",
+      "hadith_count": 6
+    },
+    {
+      "book": 13,
+      "book_name_en": "The Two Festivals (Eids)",
+      "filename": "013_the_two_festivals_eids.json",
+      "hadith_count": 37
+    },
+    {
+      "book": 14,
+      "book_name_en": "Witr Prayer",
+      "filename": "014_witr_prayer.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 15,
+      "book_name_en": "Invoking Allah for Rain (Istisqaa)",
+      "filename": "015_invoking_allah_for_rain_istisqaa.json",
+      "hadith_count": 34
+    },
+    {
+      "book": 16,
+      "book_name_en": "Eclipses",
+      "filename": "016_eclipses.json",
+      "hadith_count": 24
+    },
+    {
+      "book": 17,
+      "book_name_en": "Prostration During Recital of Qur'an",
+      "filename": "017_prostration_during_recital_of_qur_an.json",
+      "hadith_count": 13
+    },
+    {
+      "book": 18,
+      "book_name_en": "Shortening the Prayers (At-Taqseer)",
+      "filename": "018_shortening_the_prayers_at_taqseer.json",
+      "hadith_count": 39
+    },
+    {
+      "book": 19,
+      "book_name_en": "Prayer at Night (Tahajjud)",
+      "filename": "019_prayer_at_night_tahajjud.json",
+      "hadith_count": 63
+    },
+    {
+      "book": 20,
+      "book_name_en": "Virtues of Prayer at Masjid Makkah and Madinah",
+      "filename": "020_virtues_of_prayer_at_masjid_makkah_and_madinah.json",
+      "hadith_count": 9
+    },
+    {
+      "book": 21,
+      "book_name_en": "Actions while Praying",
+      "filename": "021_actions_while_praying.json",
+      "hadith_count": 27
+    },
+    {
+      "book": 22,
+      "book_name_en": "Forgetfulness in Prayer",
+      "filename": "022_forgetfulness_in_prayer.json",
+      "hadith_count": 14
+    },
+    {
+      "book": 23,
+      "book_name_en": "Funerals (Al-Janaa'iz)",
+      "filename": "023_funerals_al_janaa_iz.json",
+      "hadith_count": 148
+    },
+    {
+      "book": 24,
+      "book_name_en": "Obligatory Charity Tax (Zakat)",
+      "filename": "024_obligatory_charity_tax_zakat.json",
+      "hadith_count": 112
+    },
+    {
+      "book": 25,
+      "book_name_en": "Hajj (Pilgrimage)",
+      "filename": "025_hajj_pilgrimage.json",
+      "hadith_count": 247
+    },
+    {
+      "book": 26,
+      "book_name_en": "`Umrah (Minor pilgrimage)",
+      "filename": "026_umrah_minor_pilgrimage.json",
+      "hadith_count": 30
+    },
+    {
+      "book": 27,
+      "book_name_en": "Pilgrims Prevented from Completing the Pilgrimage",
+      "filename": "027_pilgrims_prevented_from_completing_the_pilgrimage.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 28,
+      "book_name_en": "Penalty of Hunting while on Pilgrimage",
+      "filename": "028_penalty_of_hunting_while_on_pilgrimage.json",
+      "hadith_count": 46
+    },
+    {
+      "book": 29,
+      "book_name_en": "Virtues of Madinah",
+      "filename": "029_virtues_of_madinah.json",
+      "hadith_count": 24
+    },
+    {
+      "book": 30,
+      "book_name_en": "Fasting",
+      "filename": "030_fasting.json",
+      "hadith_count": 112
+    },
+    {
+      "book": 31,
+      "book_name_en": "Praying at Night in Ramadaan (Taraweeh)",
+      "filename": "031_praying_at_night_in_ramadaan_taraweeh.json",
+      "hadith_count": 6
+    },
+    {
+      "book": 32,
+      "book_name_en": "Virtues of the Night of Qadr",
+      "filename": "032_virtues_of_the_night_of_qadr.json",
+      "hadith_count": 11
+    },
+    {
+      "book": 33,
+      "book_name_en": "Retiring to a Mosque for Remembrance of Allah (I'tikaf)",
+      "filename": "033_retiring_to_a_mosque_for_remembrance_of_allah_i_tikaf.json",
+      "hadith_count": 21
+    },
+    {
+      "book": 34,
+      "book_name_en": "Sales and Trade",
+      "filename": "034_sales_and_trade.json",
+      "hadith_count": 184
+    },
+    {
+      "book": 35,
+      "book_name_en": "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)",
+      "filename": "035_sales_in_which_a_price_is_paid_for_goods_to_be_delivered_later_as_salam.json",
+      "hadith_count": 16
+    },
+    {
+      "book": 36,
+      "book_name_en": "Shuf'a",
+      "filename": "036_shuf_a.json",
+      "hadith_count": 3
+    },
+    {
+      "book": 37,
+      "book_name_en": "Hiring",
+      "filename": "037_hiring.json",
+      "hadith_count": 25
+    },
+    {
+      "book": 38,
+      "book_name_en": "Transferance of a Debt from One Person to Another (Al-Hawaala)",
+      "filename": "038_transferance_of_a_debt_from_one_person_to_another_al_hawaala.json",
+      "hadith_count": 3
+    },
+    {
+      "book": 39,
+      "book_name_en": "Kafalah",
+      "filename": "039_kafalah.json",
+      "hadith_count": 9
+    },
+    {
+      "book": 40,
+      "book_name_en": "Representation, Authorization, Business by Proxy",
+      "filename": "040_representation_authorization_business_by_proxy.json",
+      "hadith_count": 18
+    },
+    {
+      "book": 41,
+      "book_name_en": "Agriculture",
+      "filename": "041_agriculture.json",
+      "hadith_count": 28
+    },
+    {
+      "book": 42,
+      "book_name_en": "Distribution of Water",
+      "filename": "042_distribution_of_water.json",
+      "hadith_count": 31
+    },
+    {
+      "book": 43,
+      "book_name_en": "Loans, Payment of Loans, Freezing of Property, Bankruptcy",
+      "filename": "043_loans_payment_of_loans_freezing_of_property_bankruptcy.json",
+      "hadith_count": 24
+    },
+    {
+      "book": 44,
+      "book_name_en": "Khusoomaat",
+      "filename": "044_khusoomaat.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 45,
+      "book_name_en": "Lost Things Picked up by Someone (Luqatah)",
+      "filename": "045_lost_things_picked_up_by_someone_luqatah.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 46,
+      "book_name_en": "Oppressions",
+      "filename": "046_oppressions.json",
+      "hadith_count": 43
+    },
+    {
+      "book": 47,
+      "book_name_en": "Partnership",
+      "filename": "047_partnership.json",
+      "hadith_count": 22
+    },
+    {
+      "book": 48,
+      "book_name_en": "Mortgaging",
+      "filename": "048_mortgaging.json",
+      "hadith_count": 8
+    },
+    {
+      "book": 49,
+      "book_name_en": "Manumission of Slaves",
+      "filename": "049_manumission_of_slaves.json",
+      "hadith_count": 41
+    },
+    {
+      "book": 50,
+      "book_name_en": "Makaatib",
+      "filename": "050_makaatib.json",
+      "hadith_count": 6
+    },
+    {
+      "book": 51,
+      "book_name_en": "Gifts",
+      "filename": "051_gifts.json",
+      "hadith_count": 68
+    },
+    {
+      "book": 52,
+      "book_name_en": "Witnesses",
+      "filename": "052_witnesses.json",
+      "hadith_count": 50
+    },
+    {
+      "book": 53,
+      "book_name_en": "Peacemaking",
+      "filename": "053_peacemaking.json",
+      "hadith_count": 20
+    },
+    {
+      "book": 54,
+      "book_name_en": "Conditions",
+      "filename": "054_conditions.json",
+      "hadith_count": 24
+    },
+    {
+      "book": 55,
+      "book_name_en": "Wills and Testaments (Wasaayaa)",
+      "filename": "055_wills_and_testaments_wasaayaa.json",
+      "hadith_count": 44
+    },
+    {
+      "book": 56,
+      "book_name_en": "Fighting for the Cause of Allah (Jihaad)",
+      "filename": "056_fighting_for_the_cause_of_allah_jihaad.json",
+      "hadith_count": 294
+    },
+    {
+      "book": 57,
+      "book_name_en": "One-fifth of Booty to the Cause of Allah (Khumus)",
+      "filename": "057_one_fifth_of_booty_to_the_cause_of_allah_khumus.json",
+      "hadith_count": 63
+    },
+    {
+      "book": 58,
+      "book_name_en": "Jizyah and Mawaada'ah",
+      "filename": "058_jizyah_and_mawaada_ah.json",
+      "hadith_count": 30
+    },
+    {
+      "book": 59,
+      "book_name_en": "Beginning of Creation",
+      "filename": "059_beginning_of_creation.json",
+      "hadith_count": 131
+    },
+    {
+      "book": 60,
+      "book_name_en": "Prophets",
+      "filename": "060_prophets.json",
+      "hadith_count": 154
+    },
+    {
+      "book": 61,
+      "book_name_en": "Virtues and Merits of the Prophet (pbuh) and his Companions",
+      "filename": "061_virtues_and_merits_of_the_prophet_pbuh_and_his_companions.json",
+      "hadith_count": 151
+    },
+    {
+      "book": 62,
+      "book_name_en": "Companions of the Prophet",
+      "filename": "062_companions_of_the_prophet.json",
+      "hadith_count": 120
+    },
+    {
+      "book": 63,
+      "book_name_en": "Merits of the Helpers in Madinah (Ansaar)",
+      "filename": "063_merits_of_the_helpers_in_madinah_ansaar.json",
+      "hadith_count": 172
+    },
+    {
+      "book": 64,
+      "book_name_en": "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)",
+      "filename": "064_military_expeditions_led_by_the_prophet_pbuh_al_maghaazi.json",
+      "hadith_count": 488
+    },
+    {
+      "book": 65,
+      "book_name_en": "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))",
+      "filename": "065_prophetic_commentary_on_the_qur_an_tafseer_of_the_prophet_pbuh.json",
+      "hadith_count": 499
+    },
+    {
+      "book": 66,
+      "book_name_en": "Virtues of the Qur'an",
+      "filename": "066_virtues_of_the_qur_an.json",
+      "hadith_count": 87
+    },
+    {
+      "book": 67,
+      "book_name_en": "Wedlock, Marriage (Nikaah)",
+      "filename": "067_wedlock_marriage_nikaah.json",
+      "hadith_count": 183
+    },
+    {
+      "book": 68,
+      "book_name_en": "Divorce",
+      "filename": "068_divorce.json",
+      "hadith_count": 95
+    },
+    {
+      "book": 69,
+      "book_name_en": "Supporting the Family",
+      "filename": "069_supporting_the_family.json",
+      "hadith_count": 22
+    },
+    {
+      "book": 70,
+      "book_name_en": "Food, Meals",
+      "filename": "070_food_meals.json",
+      "hadith_count": 95
+    },
+    {
+      "book": 71,
+      "book_name_en": "Sacrifice on Occasion of Birth (`Aqiqa)",
+      "filename": "071_sacrifice_on_occasion_of_birth_aqiqa.json",
+      "hadith_count": 9
+    },
+    {
+      "book": 72,
+      "book_name_en": "Hunting, Slaughtering",
+      "filename": "072_hunting_slaughtering.json",
+      "hadith_count": 69
+    },
+    {
+      "book": 73,
+      "book_name_en": "Al-Adha Festival Sacrifice (Adaahi)",
+      "filename": "073_al_adha_festival_sacrifice_adaahi.json",
+      "hadith_count": 30
+    },
+    {
+      "book": 74,
+      "book_name_en": "Drinks",
+      "filename": "074_drinks.json",
+      "hadith_count": 65
+    },
+    {
+      "book": 75,
+      "book_name_en": "Patients",
+      "filename": "075_patients.json",
+      "hadith_count": 37
+    },
+    {
+      "book": 76,
+      "book_name_en": "Medicine",
+      "filename": "076_medicine.json",
+      "hadith_count": 93
+    },
+    {
+      "book": 77,
+      "book_name_en": "Dress",
+      "filename": "077_dress.json",
+      "hadith_count": 185
+    },
+    {
+      "book": 78,
+      "book_name_en": "Good Manners and Form (Al-Adab)",
+      "filename": "078_good_manners_and_form_al_adab.json",
+      "hadith_count": 250
+    },
+    {
+      "book": 79,
+      "book_name_en": "Asking Permission",
+      "filename": "079_asking_permission.json",
+      "hadith_count": 75
+    },
+    {
+      "book": 80,
+      "book_name_en": "Invocations",
+      "filename": "080_invocations.json",
+      "hadith_count": 106
+    },
+    {
+      "book": 81,
+      "book_name_en": "To make the Heart Tender (Ar-Riqaq)",
+      "filename": "081_to_make_the_heart_tender_ar_riqaq.json",
+      "hadith_count": 181
+    },
+    {
+      "book": 82,
+      "book_name_en": "Divine Will (Al-Qadar)",
+      "filename": "082_divine_will_al_qadar.json",
+      "hadith_count": 26
+    },
+    {
+      "book": 83,
+      "book_name_en": "Oaths and Vows",
+      "filename": "083_oaths_and_vows.json",
+      "hadith_count": 84
+    },
+    {
+      "book": 84,
+      "book_name_en": "Expiation for Unfulfilled Oaths",
+      "filename": "084_expiation_for_unfulfilled_oaths.json",
+      "hadith_count": 15
+    },
+    {
+      "book": 85,
+      "book_name_en": "Laws of Inheritance (Al-Faraa'id)",
+      "filename": "085_laws_of_inheritance_al_faraa_id.json",
+      "hadith_count": 47
+    },
+    {
+      "book": 86,
+      "book_name_en": "Limits and Punishments set by Allah (Hudood)",
+      "filename": "086_limits_and_punishments_set_by_allah_hudood.json",
+      "hadith_count": 81
+    },
+    {
+      "book": 87,
+      "book_name_en": "Blood Money (Ad-Diyat)",
+      "filename": "087_blood_money_ad_diyat.json",
+      "hadith_count": 55
+    },
+    {
+      "book": 88,
+      "book_name_en": "Apostates",
+      "filename": "088_apostates.json",
+      "hadith_count": 21
+    },
+    {
+      "book": 89,
+      "book_name_en": "(Statements made under) Coercion",
+      "filename": "089_statements_made_under_coercion.json",
+      "hadith_count": 13
+    },
+    {
+      "book": 90,
+      "book_name_en": "Tricks",
+      "filename": "090_tricks.json",
+      "hadith_count": 28
+    },
+    {
+      "book": 91,
+      "book_name_en": "Interpretation of Dreams",
+      "filename": "091_interpretation_of_dreams.json",
+      "hadith_count": 61
+    },
+    {
+      "book": 92,
+      "book_name_en": "Afflictions and the End of the World",
+      "filename": "092_afflictions_and_the_end_of_the_world.json",
+      "hadith_count": 83
+    },
+    {
+      "book": 93,
+      "book_name_en": "Judgments (Ahkaam)",
+      "filename": "093_judgments_ahkaam.json",
+      "hadith_count": 84
+    },
+    {
+      "book": 94,
+      "book_name_en": "Wishes",
+      "filename": "094_wishes.json",
+      "hadith_count": 20
+    },
+    {
+      "book": 95,
+      "book_name_en": "Accepting Information Given by a Truthful Person",
+      "filename": "095_accepting_information_given_by_a_truthful_person.json",
+      "hadith_count": 21
+    },
+    {
+      "book": 96,
+      "book_name_en": "Holding Fast to the Qur'an and Sunnah",
+      "filename": "096_holding_fast_to_the_qur_an_and_sunnah.json",
+      "hadith_count": 97
+    },
+    {
+      "book": 97,
+      "book_name_en": "Oneness, Uniqueness of Allah (Tawheed)",
+      "filename": "097_oneness_uniqueness_of_allah_tawheed.json",
+      "hadith_count": 188
+    }
+  ]
+}
